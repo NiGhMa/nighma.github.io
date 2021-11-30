@@ -29,7 +29,7 @@ twitter_username: NiGhMa42
 github_username:  NiGhMa
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-tactile
 # remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-feed
