@@ -22,7 +22,7 @@ title: NiGhMa - A passionate dev journey
 email: nighma@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, I'm Seb (aka NiGhMa)! I like to discribe myself as an optimized solution's hunter.
-After 30+ years in IT, I've decided to share all the things I come across on my trip.
+  After 30+ years in IT, I've decided to share all the things I come across on my trip.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "nighma.github.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NiGhMa42
